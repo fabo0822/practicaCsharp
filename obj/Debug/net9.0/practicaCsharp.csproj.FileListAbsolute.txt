@@ -1,0 +1,15 @@
+C:\Users\fabian.ortega\Desktop\faboC#\practicaCsharp\bin\Debug\net9.0\practicaCsharp.exe
+C:\Users\fabian.ortega\Desktop\faboC#\practicaCsharp\bin\Debug\net9.0\practicaCsharp.deps.json
+C:\Users\fabian.ortega\Desktop\faboC#\practicaCsharp\bin\Debug\net9.0\practicaCsharp.runtimeconfig.json
+C:\Users\fabian.ortega\Desktop\faboC#\practicaCsharp\bin\Debug\net9.0\practicaCsharp.dll
+C:\Users\fabian.ortega\Desktop\faboC#\practicaCsharp\bin\Debug\net9.0\practicaCsharp.pdb
+C:\Users\fabian.ortega\Desktop\faboC#\practicaCsharp\obj\Debug\net9.0\practicaCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabian.ortega\Desktop\faboC#\practicaCsharp\obj\Debug\net9.0\practicaCsharp.AssemblyInfoInputs.cache
+C:\Users\fabian.ortega\Desktop\faboC#\practicaCsharp\obj\Debug\net9.0\practicaCsharp.AssemblyInfo.cs
+C:\Users\fabian.ortega\Desktop\faboC#\practicaCsharp\obj\Debug\net9.0\practicaCsharp.csproj.CoreCompileInputs.cache
+C:\Users\fabian.ortega\Desktop\faboC#\practicaCsharp\obj\Debug\net9.0\practicaCsharp.sourcelink.json
+C:\Users\fabian.ortega\Desktop\faboC#\practicaCsharp\obj\Debug\net9.0\practicaCsharp.dll
+C:\Users\fabian.ortega\Desktop\faboC#\practicaCsharp\obj\Debug\net9.0\refint\practicaCsharp.dll
+C:\Users\fabian.ortega\Desktop\faboC#\practicaCsharp\obj\Debug\net9.0\practicaCsharp.pdb
+C:\Users\fabian.ortega\Desktop\faboC#\practicaCsharp\obj\Debug\net9.0\practicaCsharp.genruntimeconfig.cache
+C:\Users\fabian.ortega\Desktop\faboC#\practicaCsharp\obj\Debug\net9.0\ref\practicaCsharp.dll
