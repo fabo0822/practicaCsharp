@@ -1,5 +1,6 @@
 ﻿using System.Diagnostics;
 using practicaCsharp.exercises;
+using System;
 
 namespace exercise
 {
@@ -11,11 +12,12 @@ namespace exercise
             // MayorMenorIgual.GreaterLessEqual();
             // MenuOpciones.mainOpcions();
             //CicloFor.cicloFor();
-            WhileCiclo.whileWithoutValidation();
-
-        }
-     }
+            //WhileCiclo.whileWithoutValidation();
+            //TablaMultiplicar.multiplyTable();
+            // IngresoDeDatos.dataEntry();
+            NumerosPositivos.postiveNumber();
+        } 
+    }
 }
 
 
-           
