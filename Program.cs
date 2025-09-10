@@ -15,7 +15,9 @@ namespace exercise
             //WhileCiclo.whileWithoutValidation();
             //TablaMultiplicar.multiplyTable();
             // IngresoDeDatos.dataEntry();
-            NumerosPositivos.postiveNumber();
+            //NumerosPositivos.postiveNumber();
+            //RangoValores.rangeValue();
+            ArreglosUnidos.arrayUnite();
         } 
     }
 }
